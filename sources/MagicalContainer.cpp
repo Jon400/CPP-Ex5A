@@ -193,3 +193,4 @@ ariel::MagicalContainer::PrimeIterator ariel::MagicalContainer::PrimeIterator::e
 bool ariel::isPrime(){
     return false;
 }
+
